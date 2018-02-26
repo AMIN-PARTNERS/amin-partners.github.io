@@ -1,3 +1,26 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://tech.aminpartners.com/"
+languageCode = "ko-kr"
+title = "AMIN PARTNERS Tech blog"
+theme = "hugo-nuo"
+
+[params]
+  author = "아민 파트너스"
+  avatar = "/logo700.png"
+
+[[menu.main]]
+  name = "홈"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "공식 사이트"
+  weight = 20
+  identifier = "site"
+  url = "http://www.aminpartners.com/"
+
+[[menu.main]]
+  name = "태그"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
