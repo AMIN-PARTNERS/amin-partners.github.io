@@ -2,6 +2,7 @@ baseURL = "https://tech.aminpartners.com/"
 languageCode = "ko-kr"
 title = "AMIN PARTNERS Tech blog"
 theme = "hugo-nuo"
+publishDir = "public"
 
 [params]
   author = "아민 파트너스"
