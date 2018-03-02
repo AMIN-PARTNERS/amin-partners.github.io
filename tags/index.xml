@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AMIN PARTNERS Tech blog</title>
-    <link>https://tech.aminpartners.com/tags/</link>
+    <link>http://tech.aminpartners.com/tags/</link>
     <description>Recent content in Tags on AMIN PARTNERS Tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     
-	<atom:link href="https://tech.aminpartners.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tech.aminpartners.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
