@@ -1,4 +1,4 @@
-baseURL = "https://tech.aminpartners.com/"
+baseURL = "http://tech.aminpartners.com/"
 languageCode = "ko-kr"
 title = "AMIN PARTNERS Tech blog"
 theme = "hugo-nuo"
