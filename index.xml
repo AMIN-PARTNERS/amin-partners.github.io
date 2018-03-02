@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AMIN PARTNERS Tech blog</title>
+    <link>https://tech.aminpartners.com/</link>
+    <description>Recent content on AMIN PARTNERS Tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 26 Feb 2018 15:54:08 +0900</lastBuildDate>
+    
+	<atom:link href="https://tech.aminpartners.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>주식회사 법인 셀프  등기 후기</title>
+      <link>https://tech.aminpartners.com/post/found-company-without-agency/</link>
+      <pubDate>Mon, 26 Feb 2018 15:54:08 +0900</pubDate>
+      
+      <guid>https://tech.aminpartners.com/post/found-company-without-agency/</guid>
+      <description>안녕하세요. 아민 파트너스의 박아윤입니다.
+저희 아민 파트너스에서는 최근에 민프로그램이라는 소수 정예 직무 교육 서비스를 런칭했습니다.
+이렇게 공식적인 서비스 런칭에 맞추어 공동 창업자들과 주식회사를 설립하기로 하였습니다. 시드머니 투자 없이 시작한 저희에게는 등기 수수료가 부담으로 다가왔습니다. 요새는 저렴한 수수료로 등기를 대행 해주는 스타트업들이 생겨났지만 이 역시도 30만원 정도로 그렇게 작은 돈은 아니였습니다. 그래서 고민하던 중 셀프로 해볼테니 수수료 아껴서 의자를 사자고 제안하였고, 그렇게 고난과 고통의 심신 단련기가 시작되었습니다. 
+온라인 법인 설립 시스템 다행히 정부에서 창업을 장려하기 위해서 인터넷으로도 법인 등기를 할 수 있는 온라인 법인 설립 시스템을 제공하고 있습니다.</description>
+    </item>
+    
+  </channel>
+</rss>

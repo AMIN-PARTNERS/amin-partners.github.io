@@ -3,10 +3,12 @@ languageCode = "ko-kr"
 title = "AMIN PARTNERS Tech blog"
 theme = "hugo-nuo"
 publishDir = "public"
+favicon = "test.png"
 
 [params]
   author = "아민 파트너스"
   avatar = "/logo700.png"
+  favicon = "test.png"
 
 [[menu.main]]
   name = "홈"

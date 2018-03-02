@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tech.aminpartners.com/post/found-company-without-agency/</loc>
+    <lastmod>2018-02-26T15:54:08+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tech.aminpartners.com/</loc>
+    <lastmod>2018-02-26T15:54:08+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tech.aminpartners.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tech.aminpartners.com/post/</loc>
+    <lastmod>2018-02-26T15:54:08+09:00</lastmod>
     <priority>0</priority>
   </url>
   
